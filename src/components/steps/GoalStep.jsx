@@ -49,13 +49,13 @@ export function GoalStep() {
           <p style={{ fontSize: 12, color: "var(--danger)", marginTop: 4 }}>{error}</p>
         )}
       </div>
-
+{/* 
       <Alert type="info" icon="💡" style={{ marginBottom: "1.5rem" }}>
         <strong style={{ display: "block", marginBottom: 4 }}>What is AHP?</strong>
         The Analytic Hierarchy Process (AHP) is a structured decision-making method developed by Thomas Saaty.
         It breaks a complex decision into pairwise comparisons, computes priority weights, and recommends
         the best alternative while verifying the logical consistency of your judgements.
-      </Alert>
+      </Alert> */}
 
       <div style={{ marginBottom: "1.5rem" }}>
         <p style={{ fontSize: 13, color: "var(--text-secondary)", marginBottom: "0.5rem" }}>
