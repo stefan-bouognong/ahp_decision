@@ -10,6 +10,7 @@ A production-grade React web application implementing the **Analytic Hierarchy P
 
 ## What is AHP?
 
+
 The **Analytic Hierarchy Process** helps you make complex decisions involving multiple criteria and alternatives by:
 
 1. Breaking the decision into a hierarchy: **Goal → Criteria → Alternatives**
